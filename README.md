@@ -9,10 +9,10 @@
 
 <a href="https://twitter.com/_ArthDh">
   <img align="left" alt="Arth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>|
+</a>
 <a href="https://www.linkedin.com/in/arth-dharaskar-2092a8148/">
   <img align="left" alt="Arth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>|
+</a>
 <a href="https://github.com/ArthDh">
   <img align="left" alt="Arth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
