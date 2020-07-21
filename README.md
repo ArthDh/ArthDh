@@ -1,11 +1,12 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+##  I am Arth Dharaskar <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7qEc1FhfvPMjlSCI/giphy.gif" width="300" height="300" />
 
-### I am Arth Dharaskar
-- test
-- test 2
+### About me
+- [WIP]
+- [WIP]
+- [WIP]
 
 <a href="https://twitter.com/_ArthDh">
   <img align="left" alt="Arth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -22,6 +23,6 @@
 <a href="https://www.kaggle.com/cronoz30">
   <img align="left" alt="Arth's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<br/>
-
-<i> "Mediocrity is self-inflicted, Genius is self-bestowed." </i>
+<br>
+<br>
+<i>"Mediocrity is self-inflicted, Genius is self-bestowed."</i>
