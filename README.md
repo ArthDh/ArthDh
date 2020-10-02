@@ -11,7 +11,7 @@
 <a href="https://twitter.com/_ArthDh">
   <img align="left" alt="Arth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/arth-dharaskar-2092a8148/">
+<a href="https://www.linkedin.com/in/arthdh/">
   <img align="left" alt="Arth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ArthDh">
